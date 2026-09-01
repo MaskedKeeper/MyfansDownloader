@@ -1,3 +1,3 @@
-authorization: Token token=
+authorization: Token token= eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYmFmNTFhNDMtZWFmMi00MTMxLTkyNTAtOTZhNDM3NTg3YThjIiwiZXhwIjoyMTAzOTA3MTY3fQ.bhOyR6t1w_UMpZfk1Nfi7NMuLI6aK0eex8zRE4MLk5E
 google-ga-data: event328
 user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
